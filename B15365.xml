@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here after followeth twoo fruitfull and godly praiers the one in laude and prayse of the trinitie, and the other desiryng grace to with stande the feare of death.</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15365</idno><idno type="EEBO-CITATION">99848268</idno>
+  <idno type="VID">176856</idno>
+  <idno type="EEBO-PROQUEST">2240919583</idno>
+  <idno type="STC">STC 20197.3</idno>
+  <idno type="STC">ESTC S113027</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99848268e"/>
+            <note>(EEBO-TCP ; phase 2, no. B15365)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176856)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 714:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here after followeth twoo fruitfull and godly praiers the one in laude and prayse of the trinitie, and the other desiryng grace to with stande the feare of death.</title>
+               </titleStmt>
+               <extent>[4] leaves   </extent>
+               <publicationStmt>
+                  <publisher>In Paules churcheyarde by Rycharde Lante, and Rycharde Bankes,</publisher>
+                  <pubPlace>Imprynted at London :</pubPlace>
+                  <date>Anno Domini, M, D, XLV [1545]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>At foot of title page: Cum priuilegio ad imprimendum solum.</note>
+                  <note>Signatures: pi⁴.</note>
+                  <note>Identified as STC 13194a on UMI microfilm.</note>
+                  <note>Reproduction of the original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Prayers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176856:1"/>
+            <p>¶ Here after fo<g ref="char:EOLhyphen"/>loweth twoo fruitfull and godly praiers / the one in laude and prayse of the trinitie / and the other desiryng grace to with stande the feare of death.</p>
+            <p>❧ Imprynted at London / in Pau<g ref="char:EOLhyphen"/>les ❧ churcheyarde by Rycharde Lante / and Rycharde Bankes. Anno Domini, M,D,XLV.</p>
+            <q>
+               <floatingText xml:lang="lat">
+                  <body>
+                     <div type="imprimatur">
+                        <p>Cum pri;uilegio ad imprimendum solum,</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </front>
+      <body>
+         <div type="prayer">
+            <pb facs="tcp:176856:2"/>
+            <pb facs="tcp:176856:2"/>
+            <head>A prayer to the trinitie</head>
+            <lg>
+               <l>
+                  <hi>O</hi> Holy God of dredfull maiestie</l>
+               <l>Verely one / three / and three in one</l>
+               <l>Who in angels serue whose werkes all creaturs be</l>
+               <l>Whiche heuen and earth / directest all a lone</l>
+               <l>We thee beseche good lorde / with whofull mone</l>
+               <l>Spare vs wretches / and washe a waye our gylt</l>
+               <l>That wee bee not / by thy iust anger spilt</l>
+            </lg>
+            <lg>
+               <l>❧ In straight ballance / of rigorus iudgement</l>
+               <l>If thou shouldest / our synnes ponder and waye</l>
+               <l>Who able wer / to beare thy punishement</l>
+               <l>The whole engyn / of all this worlde I saie</l>
+               <l>The engyn / that endure shall for aie</l>
+               <l>With suche examinacion / maie not stande</l>
+               <l>Space of one moment / in thy angry hande.</l>
+            </lg>
+            <lg>
+               <l>❧ Who is not borne / in synne originall</l>
+               <l>Who dooth not actuall synne / in sundry wise</l>
+               <l>But thou art he good lorde / that sparest all</l>
+               <l>With piteouse mercie / temperyng iustice</l>
+               <l>For as thou dooest / to vs rewardes deuise</l>
+               <l>Aboue our merites / so dooest thou dispence</l>
+               <l>Thy punishment / far vnder our offence.</l>
+            </lg>
+            <lg>
+               <l>❧ More is thy mercie lorde / then all our syn</l>
+               <l>To geue theim / that vnworthy bee</l>
+               <l>More goodly is / and more mercie therin</l>
+               <l>How bee it / worthie inough are thei perdie</l>
+               <l>Bee thei neuer so vnworthie / whom that he</l>
+               <l>List to accept / where so euer be taketh</l>
+               <l>Whom he vnworthy fyndeth / worthie maketh</l>
+            </lg>
+            <pb facs="tcp:176856:3"/>
+            <lg>
+               <l>❧ Wherfore good lorde / that aye mercifull art</l>
+               <l>Vnto thy grace / and soueraigne dignitee</l>
+               <l>Wee sely wretches / crye with wofull harte</l>
+               <l>Our synnes forget / and our malignitee</l>
+               <l>With piteous yies / of thy benignitee</l>
+               <l>Frendly loke on vs / once thyne owne we bee</l>
+               <l>Seruauntes or synners / whether it liketh thee</l>
+            </lg>
+            <lg>
+               <l>❧ Synners / if thou our cryme beholde certain</l>
+               <l>The cryme / the werke / of our vncurtese mynde</l>
+               <l>But if thy giftes / thou beholde again</l>
+               <l>Thy giftes noble / wonderfull and kynde</l>
+               <l>Thou shalt vs then / the same persones fynde</l>
+               <l>Whiche are to thee and haue been / by long space</l>
+               <l>Seruauntes by nature / children by thy grace.</l>
+            </lg>
+            <lg>
+               <l>❧ But this thy goodned / wryngeth vs alas</l>
+               <l>For we whom grace / had made thy children dere</l>
+               <l>Are made thy gylty folke / by our trespas</l>
+               <l>Synne hath vs gilty made / this many a yere</l>
+               <l>But let thy grace / thy grace that hath no pere</l>
+               <l>Of our offence / surmounten all the preace</l>
+               <l>That in our synne / thy honor maie encreace.</l>
+            </lg>
+            <lg>
+               <l>Hor though thy goodnes / through thy mightie power</l>
+               <l>Mate otherwise appeare sufficiently</l>
+               <l>As thynges / whiche thy creatures euery oure</l>
+               <l>With one voyce / declare and testify</l>
+               <l>Thy goodnes yet / thy syngular mercy</l>
+               <l>Thy petious harte / thy gracious indulgence</l>
+               <l>Nothyng so clerely sheweth / as our offence.</l>
+            </lg>
+            <pb facs="tcp:176856:3"/>
+            <lg>
+               <l>What but our syn / hath shewed y<seg rend="sup">e</seg> mighty loue</l>
+               <l>Whiche able was / thy dredfull maiestie</l>
+               <l>To drawe downe in to earth / from heuen aboue</l>
+               <l>And crucifie god / that we pore wretches wee</l>
+               <l>Should from our filthy synnes / clensed bee</l>
+               <l>With bloode and water / of thyne owne syde</l>
+               <l>That stremed / from thy blessed woundes wyde.</l>
+            </lg>
+            <lg>
+               <l>❧ Why loue and pitie / thus O heuenly kyng</l>
+               <l>Our ciuill maketh matter / of thy goodnes</l>
+               <l>O loue O pitte / our welth aye well prouidyng</l>
+               <l>O goodnes seruyng / thy seruauntes in destres</l>
+               <l>O loue O pitie / well nigh now thankeles</l>
+               <l>O goodnes mightie / gracious and wyse</l>
+               <l>And yet almoste vanquished with our vise.</l>
+            </lg>
+            <lg>
+               <l>❧ Graunt good lorde / suche hete into my hart</l>
+               <l>That into this loue of thyne / mate bee egall,</l>
+               <l>Graunt me from satans seruice to estart</l>
+               <l>With whō me ruith / so long to haue been thrall</l>
+               <l>Graunte me good lorde / and creator of all</l>
+               <l>The flame to quenche / of all synnefull desire</l>
+               <l>And in thy loue / set all my harte a fyre.</l>
+            </lg>
+            <lg>
+               <l>❧ That when the iournay / of this dedly life</l>
+               <l>My sely ghoste / hath finished and thence</l>
+               <l>Departe muste / with out his fleshely wife</l>
+               <l>A loue into his lordes high presence</l>
+               <l>He maye the fynde / O well of indulgence</l>
+               <l>In thy lordeshippe / not as a lorde but rather</l>
+               <l>As a very louyng and tender father.</l>
+            </lg>
+            <trailer>Finis</trailer>
+         </div>
+         <div type="prayer">
+            <pb facs="tcp:176856:4"/>
+            <head>A prayer against the fere of death.</head>
+            <lg>
+               <l>
+                  <hi>O</hi> Lorde Iesu / the onely health of men liuyng</l>
+               <l>And life euerlastyng / of thē whiche faithfull dy</l>
+               <l>I moste wretched synner / doo giue to the praisyng</l>
+               <l>And wholy submit myself / to thy greate mercy</l>
+               <l>Nothyng can bee compared / vnto thy pity</l>
+               <l>None truly can perishe / that putteth their trust in y<seg rend="sup">e</seg>
+               </l>
+               <l>wherfore moste louyng lord / haue mercy now on me</l>
+            </lg>
+            <lg>
+               <l>Haue mercy &amp; pity on me / I say / moste merciful lord</l>
+               <l>whiche hūbly beseche the / to giue me now thy grace</l>
+               <l>That I may now willyngly / forsake al frail discord</l>
+               <l>Pertainyng to this life / now graūt me tyme &amp; space</l>
+               <l>Here to dispise this fleshe / that I maye se thy face</l>
+               <l>I trust moste blessed lorde / in thy compassion</l>
+               <l>More clerely for to rise / in my resurreccion.</l>
+            </lg>
+            <lg>
+               <l>❧ O mercifull Iesu / I humbly crye to the</l>
+               <l>that y<seg rend="sup">e</seg> wilt by thy grace / make sure &amp; strōg my soule</l>
+               <l>Against the fere of death / my flesh sore troubleth me</l>
+               <l>That frō temptacions / my corporall yies may roule</l>
+               <l>And that I maye se the / with the yies of my soule</l>
+               <l>This mercifully here me / auert from me thy sworde</l>
+               <l>Of thy indignacion / accordyng to thy worde.</l>
+            </lg>
+            <lg>
+               <l>❧ Lorde vnder the buckler / of mercy thou me kepe</l>
+               <l>Like as thou hast preserued / thy holy marters all</l>
+               <l>whō thou madest ouercome / the ferce tormentes depe</l>
+               <l>Of their greuous death / &amp; broughte thē out of thrall</l>
+               <l>That I maye haue like grace / to the I hartely call</l>
+               <l>Haue mercy on my soule / when it passeth my boby</l>
+               <l>Which of his own kind / worketh nought but misery</l>
+            </lg>
+            <pb facs="tcp:176856:4"/>
+            <lg>
+               <l>❧ I acknowledge my self / that I am destytute</l>
+               <l>Of all sucker and help / nothyng I worke but synne</l>
+               <l>Of my selfe good lorde / but yet I make my sute</l>
+               <l>Puttyng my trust in the / at length heuen to wynde</l>
+               <l>For my confidence / onely good lorde is in</l>
+               <l>The my lorde and sauiour / Iesu my saluacion</l>
+               <l>By the merites of thy death / and of thy passion.</l>
+            </lg>
+            <lg>
+               <l>No merites nor good workes / now of myself I haue</l>
+               <l>Before y<seg rend="sup">e</seg> to knowledge / wherfore my flesh doth quake</l>
+               <l>But only it lieth in the good lorde / my soule to saue</l>
+               <l>Not able I am to y<seg rend="sup">e</seg> / for my synnes amēdes to make</l>
+               <l>Through thy mercy by faith / yet in thy blod I take</l>
+               <l>A perfect hope &amp; trust / thou wilt not impute my syne</l>
+               <l>But accept into thy grace / through y<seg rend="sup">e</seg> heuē to winne</l>
+            </lg>
+            <lg>
+               <l>Thou mercifull lorde / which borne was for my sake</l>
+               <l>And for me a synner / great tormentes &amp; great payne</l>
+               <l>Thou hast in erth here take / frō sine me for to wake</l>
+               <l>To hange vpon the crosse / thy selfe didst not abstain</l>
+               <l>To haue thy syde wide opē / no smart y<seg rend="sup">e</seg> didst refrain</l>
+               <l>To shed thy precious blode / y<seg rend="sup">e</seg> barest to mā such loue</l>
+               <l>Non might bide such smart / for mā this wil I proue</l>
+            </lg>
+            <lg>
+               <l>Make all these thy paynes / good lorde to profet me</l>
+               <l>Let thy most precious blode / my soule &amp; body clense</l>
+               <l>Let the smart passion / whiche thou suffred on tre</l>
+               <l>Satisfy for my synnes / I cannot make no mense</l>
+               <l>Of my self good lorde / so opprest I am with senes</l>
+               <l>Let thy righteousnes / my vnrighteousnes hyde</l>
+               <l>Washe from me my synnes / that I from the not slide</l>
+            </lg>
+            <pb facs="tcp:176856:5"/>
+            <lg>
+               <l>❧ Gyue me grace O lorde / I wauer not in faith</l>
+               <l>But to be firme and stable / in the O liuyng god</l>
+               <l>My hope and saluacion / thus the scriptures saith</l>
+               <l>This fleshe do not cōfoūde me / y<seg rend="sup">e</seg> I shuld tast thy rod</l>
+               <l>That my loue and charite / to the bee not doune trod</l>
+               <l>Finally the weakenes / of this my fleshely breth</l>
+               <l>Ouercome be not / at any tyme with the fere of death</l>
+            </lg>
+            <lg>
+               <l>☞ Graūt me o mercifull lorde / as my trust is in the</l>
+               <l>That when death shutteth vp / the yies of my body</l>
+               <l>The yies of my soule / to the liftned maye be</l>
+               <l>By true faith and hope / to liue eternally</l>
+               <l>where as is no discorde / no payne nor misery</l>
+               <l>But euerlastyng peace / whiche no toungue can tell</l>
+               <l>But euer shall induer / for euer I know right well</l>
+            </lg>
+            <lg>
+               <l>This when death shall take / away my toūge &amp; voyce</l>
+               <l>yet my harte maye crye / and saie to the O lorde</l>
+               <l>In thy holy handes / now let my soule reioyce</l>
+               <l>Like a louyng father / accordyng to thy worde</l>
+               <l>Let not my soule suffer / the ier of thy sworde</l>
+               <l>This bothe soule and body / to the I doo commende</l>
+               <l>To whom bee honor and prayse / euer without ende.</l>
+            </lg>
+            <p>Amen.</p>
+            <pb facs="tcp:176856:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
